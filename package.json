@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/zarif007/AboutZarif/issues"
   },
-  "homepage": "https://github.com/zarif007/AboutZarif#readme"
+  "homepage": "https://github.com/zarif007/AboutZarif#readme",
+  "dependencies": {
+    "animate.css": "^4.1.1"
+  }
 }
